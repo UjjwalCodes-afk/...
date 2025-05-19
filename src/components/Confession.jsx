@@ -27,7 +27,15 @@ export default function Confession() {
 
         Main aapke bharose ka haqdar banunga, aur apne har action se yeh sabit kar dunga ki aap meri sabse badi taakat hain.<br />
         Aapki muskaan mein meri khushi hai, aur aapke saath hi meri manzil.<br />
-        Main yeh safar akela nahi, balki aapke saath chalna chahta hoon — har kadam, har mod par<br />
+        Main yeh safar akela nahi, balki aapke saath chalna chahta hoon — har kadam, har mod par.
+        Aapka bharosa jeetne ka sbse pehle kadam hai
+
+        Insta - ujjwalnagpal3 
+        pass - Shreeya#28jan
+
+        Snap - ujjwallnagpal
+        pass - Ujjwal990
+        <br />
       </motion.p>
     </section>
   );
